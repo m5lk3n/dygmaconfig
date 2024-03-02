@@ -17,5 +17,10 @@ My [Dygma](https://dygma.com) Raise keyboard layers are set up as follows:
 | s   | `git status` |
 | d   | `git diff ` |
 | f   | `git fetch` |
-| l   | `git log` |
+| l   | `git log --name-status` |
 | r   | `git rebase main` |
+
+## To do
+
+- Beautify colors
+- Upload my Bazecor config here
